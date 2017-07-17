@@ -1,6 +1,6 @@
 技术相关：
 
-> node.js + Mongodb+jQuery
+> node.js + express + Mongodb + jQuery
 
 主要功能：
 
