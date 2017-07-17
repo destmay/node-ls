@@ -8,15 +8,17 @@
 
 项目运行：
 
-> git clone https://github.com/calabash519/node-lr.git
->
-> cd node-lr
->
-> npm install
->
-> 打开 Mongodb
->
-> npm run dev
->
-> localhost:3000
+```javascript
+git clone https://github.com/calabash519/node-lr.git
+
+cd node-lr
+
+npm install
+
+打开 Mongodb
+
+npm run dev
+
+localhost:3000
+```
 
